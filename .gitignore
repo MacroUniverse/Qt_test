@@ -74,3 +74,6 @@ Thumbs.db
 
 build-*/
 CMakeLists.txt.user
+CMakeFiles
+*.cmake
+CMakeCache.txt
